@@ -10,7 +10,7 @@ Curso de JavaScript: validações e reconhecimento de voz
 | :fire: Desafio     |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://user-images.githubusercontent.com/104109951/209486757-25bb575f-e697-49b5-9ecb-ea9be5c67e00.png)
+![image](https://user-images.githubusercontent.com/104109951/209486757-25bb575f-e697-49b5-9ecb-ea9be5c67e00.png#vitrinedev)
 
 ## Objetivos
 
